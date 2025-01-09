@@ -1,2 +1,3 @@
 # FamilyGuy Brain-Bot
-funni
+Fun project for creating discord bots
+
